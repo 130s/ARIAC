@@ -1,0 +1,9 @@
+repositories:
+  osrf/ariac-gazebo_ros_pkgs:
+    type: git
+    url: https://github.com/osrf/ariac-gazebo_ros_pkgs.git
+    version: ariac-network-melodic
+  usnistgov/ARIAC:
+    type: git
+    url: https://github.com/usnistgov/ARIAC.git
+    version: ariac2021
